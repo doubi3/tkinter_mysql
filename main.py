@@ -50,7 +50,7 @@ lgaInput = Entry(root, width=50).place(x=150, y=300)
 stateInput = Entry(root, width=50).place(x=150, y=330)
 
 
-# tentative bottoms
+# tentative buttons
 
 addBtn = Button(root, text='Add Record').place(x=40, y=360)
 delBtn = Button(root, text='Delete Record').place(x=180, y=360)
